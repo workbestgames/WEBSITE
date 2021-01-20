@@ -1,1 +1,3 @@
 index.html
+rendaextra.netlify.app
+rendaextra.netlify.app/index.html
